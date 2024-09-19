@@ -1,1 +1,1 @@
-FROM johnst9/firstdocker:v1
+FROM johnst9/firstdocker:v2
